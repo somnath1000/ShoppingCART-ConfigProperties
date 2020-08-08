@@ -1,0 +1,1 @@
+# ShoppingCART-ConfigProperties
