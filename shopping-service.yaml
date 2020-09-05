@@ -1,0 +1,4 @@
+shopping-service.h2.console.enabled: true
+shopping-service.datasource.url: jdbc:h2:mem:shoppingDB
+shopping-service.datasource.username: sa
+shopping-service.datasource.password: 
