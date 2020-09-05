@@ -1,4 +1,4 @@
-cart-service.h2.console.enabled: true
-cart-service.datasource.url: jdbc:h2:mem:orderDB
-cart-service.datasource.username: sa
-cart-service.datasource.password: 
+order-service.h2.console.enabled: true
+order-service.datasource.url: jdbc:h2:mem:orderDB
+order-service.datasource.username: sa
+order-service.datasource.password: 
