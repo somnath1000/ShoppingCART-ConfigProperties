@@ -1,4 +1,4 @@
 #order-service.h2.console.enabled: true
 order-service.datasource.url: jdbc:mysql://localhost:3306/shoppingCartDB
 order-service.datasource.username: root
-order-service.datasource.password: 
+order-service.datasource.password: root
