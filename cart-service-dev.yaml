@@ -1,4 +1,4 @@
-cart-service.h2.console.enabled: true
-cart-service.datasource.url: jdbc:h2:mem:cartDB
-cart-service.datasource.username: sa
+#cart-service.h2.console.enabled: true
+cart-service.datasource.url: jdbc:mysql://localhost:3306/shoppingCartDB
+cart-service.datasource.username: root
 cart-service.datasource.password: 

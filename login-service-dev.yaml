@@ -1,6 +1,6 @@
-login-service.h2.console.enabled: true
-login-service.datasource.url: jdbc:h2:mem:loginDB
-login-service.datasource.username: sa
+#login-service.h2.console.enabled: true
+login-service.datasource.url: jdbc:mysql://localhost:3306/shoppingCartDB
+login-service.datasource.username: root
 login-service.datasource.password: 
 
 login-service.jwtSecret: loginSecretKey
