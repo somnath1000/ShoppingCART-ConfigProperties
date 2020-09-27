@@ -4,4 +4,4 @@ login-service.datasource.username: sa
 login-service.datasource.password: 
 
 login-service.jwtSecret: loginSecretKey
-login-service.jwtExpirationMs: 86400000
+login-service.jwtExpirationMs: 180000
