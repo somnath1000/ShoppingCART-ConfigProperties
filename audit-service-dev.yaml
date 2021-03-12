@@ -1,4 +1,5 @@
 #audit-service.h2.console.enabled: true
-audit-service.datasource.url: jdbc:mysql://192.168.99.100:3306/shoppingCartDB
+#audit-service.datasource.url: jdbc:mysql://192.168.99.100:3306/shoppingCartDB ---For Docker
+audit-service.datasource.url: jdbc:mysql://10.244.2.125:3306/shoppingCartDB
 audit-service.datasource.username: root
 audit-service.datasource.password: root
