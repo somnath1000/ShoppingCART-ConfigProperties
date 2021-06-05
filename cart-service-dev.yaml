@@ -1,5 +1,5 @@
 #cart-service.h2.console.enabled: true
 #cart-service.datasource.url: jdbc:mysql://192.168.99.100:3306/shoppingCartDB
-cart-service.datasource.url: jdbc:mysql://172.16.32.69:3306/shoppingCartDB
+cart-service.datasource.url: jdbc:mysql://172.16.32.76:3306/shoppingCartDB
 cart-service.datasource.username: root
 cart-service.datasource.password: admin

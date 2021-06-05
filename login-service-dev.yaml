@@ -1,6 +1,6 @@
 #login-service.h2.console.enabled: true
 #login-service.datasource.url: jdbc:mysql://192.168.99.100:3306/shoppingCartDB
-login-service.datasource.url: jdbc:mysql://172.16.32.69:3306/shoppingCartDB
+login-service.datasource.url: jdbc:mysql://172.16.32.76:3306/shoppingCartDB
 login-service.datasource.username: root
 login-service.datasource.password: admin
 
