@@ -1,0 +1,7 @@
+login-service.h2.console.enabled: true
+login-service.datasource.url: jdbc:h2:mem:loginDB
+login-service.datasource.username: sa
+login-service.datasource.password: 
+
+login-service.jwtSecret: loginSecretKey
+login-service.jwtExpirationMs: 180000

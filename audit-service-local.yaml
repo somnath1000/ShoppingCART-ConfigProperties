@@ -1,0 +1,4 @@
+audit-service.h2.console.enabled: true
+audit-service.datasource.url: jdbc:h2:mem:auditDB
+audit-service.datasource.username: sa
+audit-service.datasource.password: 
